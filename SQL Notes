@@ -2,3 +2,10 @@
 SQL (Structured Query Language) is a standard language used to communicate with relational databases. It is used to perform operations such as storing, retrieving, updating, and deleting data.
 SQL allows us to manage structured data in a tabular format using queries. It is widely used in database systems like MySQL, Oracle, SQL Server, and PostgreSQL.
 
+2. Difference between sql and MySQL
+Feature 	SQL (Structured Query Language)	MySQL (Relational Database System)
+Type	Programming Language	RDBMS Software
+Primary Use	Managing and querying data	Storing and organizing data
+Updates	Syntax remains relatively static	Frequent software updates and versions
+Portability	Can be used in many database systems	A specific product used to run queries
+User Interface	No graphical interface	Supports GUIs like MySQL Workbench
