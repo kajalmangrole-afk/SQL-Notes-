@@ -57,3 +57,14 @@ Commands:
 COMMIT – Save changes
 ROLLBACK – Undo changes
 SAVEPOINT – Set checkpoint
+
+
+4. What is a Primary Key?
+
+A Primary Key is a column (or set of columns) in a table that uniquely identifies each record.
+
+Key Characteristics:
+Unique: No duplicate values allowed
+Not Null: Cannot contain NULL values
+One per table: Each table can have only one primary key
+Automatically indexed: Improves search performance
