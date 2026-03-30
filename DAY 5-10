@@ -1,0 +1,7 @@
+5.What is Foreign key?
+A column that links one table to another.
+Refers to primary key of another table 
+One-line: “Foreign key creates relationship between tables.”
+
+6. What is composite Key?
+Combination of two or more columns to uniquely identify a record.
