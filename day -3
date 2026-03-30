@@ -68,3 +68,9 @@ Unique: No duplicate values allowed
 Not Null: Cannot contain NULL values
 One per table: Each table can have only one primary key
 Automatically indexed: Improves search performance
+
+4. what is primary key?
+Uniquely identifies each record in a table.
+No duplicate values 
+Cannot be NULL 
+One-line: “Primary key is a unique identifier for each row.”
