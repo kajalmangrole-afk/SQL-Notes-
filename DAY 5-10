@@ -5,3 +5,30 @@ One-line: “Foreign key creates relationship between tables.”
 
 6. What is composite Key?
 Combination of two or more columns to uniquely identify a record.
+
+
+7.What is Unique Key?
+Ensures all values are unique.
+Can have one NULL value 
+ “Unique key prevents duplicate values.”
+
+8. What is Where and Having?
+Where : Used to filter rows before applying GROUP BY
+Works on normal conditions
+Having : Used to filter data after GROUP BY (aggregation)
+ Works with aggregate functions (SUM, COUNT, AVG)
+9. What is Group By and Order By?
+Group By:
+👉 Used to group rows with the same values and apply aggregate functions like SUM, COUNT, AVG.
+Order By : 
+“GROUP BY is used to group data for summary.”
+👉 Explanation:
+Data is sorted from highest salary to lowest 
+
+10. What is limit?
+LIMIT is used to restrict the number of rows returned in the result.
+
+🔹 Why we use LIMIT
+To get top records 
+To improve performance (fetch less data) 
+Used in pagination
